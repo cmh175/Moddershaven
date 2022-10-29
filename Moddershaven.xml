@@ -1,56 +1,57 @@
 <?xml version="1.0"?>
 <Catalog Name="Moddershaven Catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Mods>
+   <Mods>
+
     <Mod>
-      <ID>fbc8977a-8044-4425-bef7-d44422c67e24</ID>
-      <Author>ModdersHaven</Author>
+      <ID>da94f7ce-8e07-4754-897c-7d70da6a1a55</ID>  
+      <Author>Moddershaven</Author>
+      <Link></Link>
       <LatestVersion>
-        <DownloadSize>0</DownloadSize>
-        <Link>iros://Url/https$www.mediafire.com/file/h2mwdphy6326dr8/MH_Base_Model_Pack.7z/file</Link>
-        <Version>2.8</Version>
-        <ReleaseDate>2022-09-16T00:00:00</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-      </LatestVersion>
-      <MetaVersion>1.00</MetaVersion>
-      <Name>ModdersHaven Base Model Pack</Name>
-      <Description>Base Model Pack includes literally everything else. Updated world, battle, magic, field, mini game, etc. Every 3D aspect of the game is included in this pack. If you prefer other popular character models, but would like to update the rest of the game this is the pack you want. 
-</Description>
-      <Category>Battle Models</Category>
-      <Tags />
-    </Mod>
-    <Mod>
-      <ID>da94f7ce-8e07-4754-897c-7d70da6a1a55</ID>
-      <Author>ModdersHaven</Author>
-      <LatestVersion>
-        <DownloadSize>0</DownloadSize>
         <Link>iros://Url/https$www.mediafire.com/file/k1x8hcawc282gvc/Moddershaven_Main_and_NPC_Model_Pack.7z/file</Link>
         <Version>2.6</Version>
-        <ReleaseDate>2022-09-16T00:00:00</ReleaseDate>
+        <ReleaseDate>2022-09-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/72jN9OC.png</PreviewImage>
       </LatestVersion>
-      <MetaVersion>1.00</MetaVersion>
       <Name>ModdersHaven Main Characters and NPC Models</Name>
-      <Description>Main and NPC Model Pack includes the main and side characters and NPC’s. This includes field, battle, world, mini game models, etc. They’ve been separated from the main pack for size and compatibility, should you prefer to use other character mods and still use MH for everything else. REQUIRES Qhimm 60FPS mod, and it needs to be under this iro in 7H.
-</Description>
       <Category>Battle Models</Category>
-      <Tags />
+      <Description>Main and NPC Model Pack includes the main and side characters and NPC’s. This includes field, battle, world, mini game models, etc. They’ve been separated from the main pack for size and compatibility, should you prefer to use other character mods and still use MH for everything else. REQUIRES Qhimm 60FPS mod, and it needs to be under this iro in 7H.
+      </Description>
     </Mod>
-    <Mod>
-      <ID>c06cbeae-91c9-4553-8dc4-3d490f855f64</ID>
-      <Author>ModdersHaven</Author>
-      <LatestVersion>
-        <DownloadSize>0</DownloadSize>
-        <Link>iros://Url/https$www.mediafire.com/file/le32lr5j0a4prtd/Environment_Textures.7z/file</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2022-09-16T00:00:00</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-      </LatestVersion>
-      <MetaVersion>1.00</MetaVersion>
-      <Name>Environment and Magic Textures</Name>
-      <Description>Environment Textures includes new HD textures for battle environments and world map textures.
-</Description>
-      <Category>Battle Textures</Category>
-      <Tags />
-    </Mod>
-  </Mods>
+      
+      <Mod>
+        <ID>fbc8977a-8044-4425-bef7-d44422c67e24</ID>  
+        <Author>Moddershaven</Author>
+        <Link></Link>
+        <LatestVersion>
+          <Link>iros://Url/https$www.mediafire.com/file/h2mwdphy6326dr8/MH_Base_Model_Pack.7z/file</Link>
+          <Version>2.8</Version>
+          <ReleaseDate>2022-09-16</ReleaseDate>
+          <CompatibleGameVersions>All</CompatibleGameVersions>
+          <PreviewImage>https://i.imgur.com/72jN9OC.png</PreviewImage>
+        </LatestVersion>
+        <Name>ModdersHaven Base Model Pack</Name>
+        <Category>Battle Models</Category>
+        <Description>Base Model Pack includes literally everything else. Updated world, battle, magic, field, mini game, etc. Every 3D aspect of the game is included in this pack. If you prefer other popular character models, but would like to update the rest of the game this is the pack you want.
+        </Description>
+      </Mod>
+      
+      <Mod>
+        <ID>c06cbeae-91c9-4553-8dc4-3d490f855f64</ID>  
+        <Author>Moddershaven</Author>
+        <Link></Link>
+        <LatestVersion>
+          <Link>iros://Url/https$www.mediafire.com/file/le32lr5j0a4prtd/Environment_Textures.7z/file</Link>
+          <Version>2.0</Version>
+          <ReleaseDate>2022-09-16</ReleaseDate>
+          <CompatibleGameVersions>All</CompatibleGameVersions>
+          <PreviewImage>https://i.imgur.com/72jN9OC.png</PreviewImage>
+        </LatestVersion>
+        <Name>Environment Textures</Name>
+        <Category>Battle Textures</Category>
+        <Description>Environment Textures includes new HD textures for battle environments and world map textures.
+        </Description>
+      </Mod>
+      
+    </Mods>
 </Catalog>
