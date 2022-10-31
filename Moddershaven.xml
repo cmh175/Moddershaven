@@ -7,7 +7,7 @@
       <Author>Moddershaven</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://Url/https$www.mediafire.com/file/k1x8hcawc282gvc/Moddershaven_Main_and_NPC_Model_Pack.7z/file</Link>
+        <Link>iros://Url/https$download1347.mediafire.com/p5nsnaf8o87g/k1x8hcawc282gvc/Moddershaven+Main+and+NPC+Model+Pack.7z</Link>
         <Version>2.6</Version>
         <ReleaseDate>2022-09-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -24,7 +24,7 @@
         <Author>Moddershaven</Author>
         <Link></Link>
         <LatestVersion>
-          <Link>iros://Url/https$www.mediafire.com/file/h2mwdphy6326dr8/MH_Base_Model_Pack.7z/file</Link>
+          <Link>iros://Url/https$download1488.mediafire.com/az2a1xc8euvg/h2mwdphy6326dr8/MH+Base+Model+Pack.7z</Link>
           <Version>2.8</Version>
           <ReleaseDate>2022-09-16</ReleaseDate>
           <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -41,7 +41,7 @@
         <Author>Moddershaven</Author>
         <Link></Link>
         <LatestVersion>
-          <Link>iros://Url/https$www.mediafire.com/file/le32lr5j0a4prtd/Environment_Textures.7z/file</Link>
+          <Link>iros://Url/https$download1335.mediafire.com/xcr57x4a25og/le32lr5j0a4prtd/Environment+Textures.7z</Link>
           <Version>2.0</Version>
           <ReleaseDate>2022-09-16</ReleaseDate>
           <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -51,7 +51,6 @@
         <Category>Battle Textures</Category>
         <Description>Environment Textures includes new HD textures for battle environments and world map textures.
         </Description>
-      </Mod>
-      
+      </Mod>      
     </Mods>
 </Catalog>
